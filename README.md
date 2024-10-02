@@ -1,2 +1,2 @@
-# baeldung-kata
+# Java-kata
 Java Kata
