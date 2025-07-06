@@ -1,4 +1,4 @@
-package com.iamsjn.hibernate.kata;
+package com.iamsjn.hibernate.kata.entity;
 
 import jakarta.persistence.*;
 
